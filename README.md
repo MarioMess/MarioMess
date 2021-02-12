@@ -6,7 +6,7 @@ Mário Gonçalves da Silva.
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/MarioMess)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-gon%C3%A7alves-da-silva-19b418206//)](https://www.linkedin.com/in/m%C3%A1rio-gon%C3%A7alves-da-silva-19b418206/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariogoncalvessilva/)](https://www.linkedin.com/in/mariogoncalvessilva/)
 
 ![git](https://user-images.githubusercontent.com/78670218/107778902-658db200-6d23-11eb-93b1-1bd564328c60.jpg)
 ![](https://github-readme-stats.vercel.app/api?username=MarioMess&show_icons=true&theme=merko)
