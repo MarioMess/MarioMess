@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 sou 
 
+Mário Gonçalves da Silva.
+
+<p> Estou iniciando a faculdade de Análise e desenvolvimento de sistemas estou no 1º semestre.</p>
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/MarioMess)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-gon%C3%A7alves-da-silva-19b418206//)](https://www.linkedin.com/in/m%C3%A1rio-gon%C3%A7alves-da-silva-19b418206/)
+
+
+![](https://github-readme-stats.vercel.app/api?username=MarioMess&show_icons=true&theme=merko)
 <!--
 **MarioMess/MarioMess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
