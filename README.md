@@ -8,7 +8,7 @@ Mário Gonçalves da Silva.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/MarioMess)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-gon%C3%A7alves-da-silva-19b418206//)](https://www.linkedin.com/in/m%C3%A1rio-gon%C3%A7alves-da-silva-19b418206/)
 
-![git](https://user-images.githubusercontent.com/78670218/107778620-0af45600-6d23-11eb-9517-46dfe9b95cc9.jpg)
+![git](https://user-images.githubusercontent.com/78670218/107778715-2d866f00-6d23-11eb-8ab1-0643ca71fe2a.jpg)
 ![](https://github-readme-stats.vercel.app/api?username=MarioMess&show_icons=true&theme=merko)
 <!--
 **MarioMess/MarioMess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
