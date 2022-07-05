@@ -2,7 +2,7 @@
 
 Mário Gonçalves da Silva.
 
-<p> Estou iniciando a faculdade de Análise e desenvolvimento de sistemas estou no 1º semestre.</p>
+<p>Ciência da Computação 2º semestre.</p>
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/MarioMess)
